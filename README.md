@@ -1,6 +1,6 @@
 
 - 🔭 Atualmente estou procurando uma primeira oportunidade como dev frontend
-- 🌱 Estuadando TypeScript, React, React Native
+- 🌱 Estudando TypeScript, React, React Native
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hugo-marques-855a401b6/">
