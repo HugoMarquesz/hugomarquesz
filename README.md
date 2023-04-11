@@ -1,6 +1,10 @@
 
-- 🔭 Atualmente estou procurando uma primeira oportunidade como dev frontend
-- 🌱 Estudando TypeScript, React, React Native
+- 🔭 Programador disposto a aprender e a enfrentar desafios
+para aprimorar meus conhecimentos na área.
+
+- Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança. Pronto para superar qualquer desafio!
+
+- 🌱 No momento meu foco é o desenvolvimento em Javascript, PHP, MySql,  voltado para o fullstack.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hugo-marques-855a401b6/">
